@@ -39,7 +39,7 @@ Canvas
 
 * HTML
 
-```
+```html
 <p align="center">
   <canvas id="myCanvas" width="400" height="400">
 </p>
@@ -47,7 +47,7 @@ Canvas
 
 * CSS
 
-```
+```css
 #myCanvas{
   border:5px
   solid #d3d3d3;
@@ -56,7 +56,7 @@ Canvas
 
 * Javascript-Canvas
 
-```
+```javascript
 var c = document.getElementById("myCanvas");
 if(c.getContext){
   var s = 5;
