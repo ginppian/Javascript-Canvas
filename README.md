@@ -32,6 +32,19 @@ Canvas
 			<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img2.jpg" width="504" height="378">
 		</p>
 	</li>
+	<li>
+		A continuación seguiremos con nuestro código:
+		<ul>
+						<p align="justify">HTML</p>
+			<li>
+				```
+				<p align="center">
+  <canvas id="myCanvas" width="400" height="400">
+</p>
+```
+			</li>
+		</ul>
+	</li>
 </ol>
 
 ## Fuente
