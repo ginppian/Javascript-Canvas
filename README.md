@@ -33,19 +33,71 @@ Canvas
 		</p>
 	</li>
 	<li>
-		A continuación seguiremos con nuestro código:
-		<ul>
-						<p align="justify">HTML</p>
-			<li>
-				```
-				<p align="center">
+		En nuestro código
+	</li>
+</ol>
+
+* HTML
+
+```
+<p align="center">
   <canvas id="myCanvas" width="400" height="400">
 </p>
 ```
-			</li>
-		</ul>
-	</li>
-</ol>
+
+* CSS
+
+```
+#myCanvas{
+  border:5px
+  solid #d3d3d3;
+}
+```
+
+* Javascript-Canvas
+
+```
+var c = document.getElementById("myCanvas");
+if(c.getContext){
+  var s = 5;
+  var ctx = c.getContext("2d");
+  ctx.fillStyle = "rgba(230,2,25,1)";
+  ctx.beginPath();
+  ctx.moveTo(35*s,35*s);//Init
+  ctx.lineTo(45*s,25*s);//A
+  ctx.lineTo(45*s,15*s);//B 
+  ctx.lineTo(35*s,5*s);//C 
+  ctx.lineTo(35*s,5*s);//D
+  ctx.lineTo(20*s,5*s);//E 
+  ctx.lineTo(10*s,15*s);//F 
+  ctx.lineTo(10*s,25*s);//G
+  ctx.lineTo(20*s,35*s);//H 
+  ctx.lineTo(23*s,35*s);//I 
+  ctx.lineTo(27.5*s,70*s);//J
+  ctx.lineTo(32*s,35*s);//K 
+  ctx.fill(); 
+  ctx.closePath();
+  ctx.stroke();
+  
+  ctx.fillStyle = "rgba(0,0,0,1)";
+  ctx.font = "89px Helvetica";
+  ctx.fillText("1",22*s,20.5*s);
+  
+  ctx.font = "21px Helvetica";
+  ctx.fillText("11/08/2017",17*s,26.5*s);
+  ctx.fillText("08:34",21.5*s,31.5*s);
+  
+}
+```
+
+<p align="justify">
+	Aquí obtenemos el elemento <i>CANVAS</i> generamos un <i>CONTEXTO</i> (el contexto indicamos la dimención 2D o 3D). Si podemos obtener un contexto, módificamos a que sea <i>2D</i> a continuación cambiamos el color a rojo, y empezamos a dibujar indicando lo con <i>beginPath</i>, movemos la pluma a las coordenadas <i>(35,35)</i> y empezamos a dibujar. Copiamos todos nuestros puntos que habíamos hecho en nuestro <i>BOCETO</i> anterior y la propiedad <i>S</i> indica que es un <i>ESCALAR</i> es decir si queremos que la figura sea más grande o pequeña.
+</p>
+
+<p align="justify">Ya para finalizar hacemos <i>FILL</i> para rellenar y <i>STROKE</i> para marcar el contorno.</p>
+<p align="justify">Como queremos agregar texto, modificamos el color a <i>NEGRO</i> le asignamos un tipo de letra, y a continuación agregamos el texto, pasando le una coordenada para ajustar éste a nuestro diseño.</p>
+
+
 
 ## Fuente
 
