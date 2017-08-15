@@ -2,7 +2,7 @@ Canvas
 =====
 
 <p align="center">
-	<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img1.png" width="681" height="332">
+	<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img1.png" width="681" height="350">
 </p>
 
 ## Descripción
