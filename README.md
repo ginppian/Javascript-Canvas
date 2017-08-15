@@ -102,9 +102,9 @@ if(c.getContext){
 </p>
 
 
-## Live
+## Demo
 
-<a href="https://codepen.io/guitarrkurt/pen/YxENmE">Demo</a>
+<a href="https://codepen.io/guitarrkurt/pen/YxENmE">Live</a>
 
 ## Fuente
 
