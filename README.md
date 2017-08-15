@@ -102,6 +102,10 @@ if(c.getContext){
 </p>
 
 
+## Live
+
+<a href="https://codepen.io/guitarrkurt/pen/YxENmE">Demo</a>
+
 ## Fuente
 
 * <a href="https://gist.github.com/viktorkelemen/1451945/cb94c2aa2d24d60209a896506c438f8e754d08dd">Custom canvas google maps marker</a>
