@@ -97,6 +97,9 @@ if(c.getContext){
 <p align="justify">Ya para finalizar hacemos <i>FILL</i> para rellenar y <i>STROKE</i> para marcar el contorno.</p>
 <p align="justify">Como queremos agregar texto, modificamos el color a <i>NEGRO</i> le asignamos un tipo de letra, y a continuación agregamos el texto, pasando le una coordenada para ajustar éste a nuestro diseño.</p>
 
+<p align="center">
+	<img src="" width="132" height="176">
+</p>
 
 
 ## Fuente
