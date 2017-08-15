@@ -98,7 +98,7 @@ if(c.getContext){
 <p align="justify">Como queremos agregar texto, modificamos el color a <i>NEGRO</i> le asignamos un tipo de letra, y a continuación agregamos el texto, pasando le una coordenada para ajustar éste a nuestro diseño.</p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img3.png" width="132" height="176">
+	<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img3.png" width="263" height="351">
 </p>
 
 
