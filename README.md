@@ -29,7 +29,7 @@ Canvas
 	<li>
 		Primer paso es dibujar nuestro diseño a papel y lápiz.
 		<p align="justify">
-			<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img2.png" width="1008" height="756">
+			<img src="https://github.com/ginppian/Javascript-Canvas/blob/master/imgs/img2.png" width="504" height="378">
 		</p>
 	</li>
 </ol>
