@@ -101,4 +101,12 @@ if(c.getContext){
 
 ## Fuente
 
+* <a href="https://gist.github.com/viktorkelemen/1451945/cb94c2aa2d24d60209a896506c438f8e754d08dd">Custom canvas google maps marker</a>
+* <a href="https://paul.kinlan.me/using-canvas-to-create-beautiful-custom-marke/">Using Canvas to create beautiful custom markers in Google Maps</a>
+* <a href="https://stackoverflow.com/questions/2436484/how-can-i-create-numbered-map-markers-in-google-maps-v3">How can I create numbered map markers in Google Maps V3?</a>
+* <a href="http://js-bits.blogspot.mx/2010/07/canvas-rounded-corner-rectangles.html">JavaScript Bits</a>
 * <a href="https://developer.mozilla.org/es/docs/Web/Guide/HTML/Canvas_tutorial/Dibujando_formas">Dibujando formas con canvas</a>
+* <a href="https://www.w3schools.com/tags/canvas_fill.asp">HTML canvas fill() Method</a>
+* <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_canvas_tut_path">html5_canvas_tut_path</a>
+* <a href="https://stackoverflow.com/questions/12449904/how-to-use-the-helvetica-neue-bold-condensed-in-the-html5-canvas">How to use the “Helvetica Neue Bold Condensed” in the HTML5 Canvas</a>
+
